@@ -1,2 +1,2 @@
 # Aryan
-*Hi, I am new here *
+*Hi, I am new here.*
